@@ -5,12 +5,59 @@
     <link>https://example.com/category/%E6%95%99%E7%A8%8B/</link>
       <atom:link href="https://example.com/category/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
     <description>教程</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 28 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>教程</title>
       <link>https://example.com/category/%E6%95%99%E7%A8%8B/</link>
     </image>
+    
+    <item>
+      <title>My lask week (28.05-04.06)</title>
+      <link>https://example.com/post/last-week-04.06.22/</link>
+      <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/last-week-04.06.22/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Last week I managed to publish 2 posts on my website thanks to the Hugo statistics generator. ** You can view them by going to the messages section.**&lt;/li&gt;
+&lt;li&gt;I also managed to do two lab work on the topic &amp;ldquo;Operating systems&amp;rdquo;: Tools for creating applications in UNIX OS and Named pipes&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pros and cons of being a programmer</title>
+      <link>https://example.com/post/%D0%BF%D0%BB%D1%8E%D1%81%D1%8B-%D0%B8-%D0%BC%D0%B8%D0%BD%D1%83%D1%81%D1%8B-%D0%B1%D1%8B%D1%82%D1%8C-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%BE%D0%BC/</link>
+      <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%BF%D0%BB%D1%8E%D1%81%D1%8B-%D0%B8-%D0%BC%D0%B8%D0%BD%D1%83%D1%81%D1%8B-%D0%B1%D1%8B%D1%82%D1%8C-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D0%BE%D0%BC/</guid>
+      <description>&lt;h1 id=&#34;advantages&#34;&gt;Advantages&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Constant work on self-improvement, knowledge of your tao, the way of a warrior.&lt;/li&gt;
+&lt;li&gt;Working with very advanced people, meeting with colleagues who understand you perfectly.&lt;/li&gt;
+&lt;li&gt;Work at normal computers, in a harmless environment.&lt;/li&gt;
+&lt;li&gt;Participation in the life of the country — &amp;ldquo;real&amp;rdquo;, not &amp;ldquo;TV&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;The opportunity to earn as much as you like, if you don&amp;rsquo;t want to — downshift.&lt;/li&gt;
+&lt;li&gt;Permanent professional conferences, seminars, meetings.&lt;/li&gt;
+&lt;li&gt;There is a high probability of changing several countries of residence and continents.&lt;/li&gt;
+&lt;li&gt;The probability of living an interesting and long life, because a loaded brain ages more slowly.&lt;/li&gt;
+&lt;li&gt;There is always an opportunity to retrain, to teach someone. Even in retirement.&lt;/li&gt;
+&lt;li&gt;As a rule, a positive outlook on the future.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;disadvantages&#34;&gt;Disadvantages:&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;The need for the first time, almost 2-3 years, to be at a tedious job or to be picked up in a large team.&lt;/li&gt;
+&lt;li&gt;Constant inactivity, which you need to fight.&lt;/li&gt;
+&lt;li&gt;Problems with blood circulation and nerves in the fourth decade of life. Dry eye syndrome can overtake in two to three years.&lt;/li&gt;
+&lt;li&gt;Difficulty in choosing worthy managers.&lt;/li&gt;
+&lt;li&gt;The risk of making a mistake in choosing a subject area that you will devote considerable time to studying.&lt;/li&gt;
+&lt;li&gt;Fixed costs for upgrading the computer.&lt;/li&gt;
+&lt;li&gt;Changing the subject area can lead to a return to the starting point of a career.&lt;/li&gt;
+&lt;li&gt;Condemnation and misunderstanding of others when communicating on topics close to programming.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;bottom-line&#34;&gt;Bottom line&lt;/h1&gt;
+&lt;p&gt;Our virtues are a continuation of our shortcomings, but the virtues are so weighty that they will be enough for more than one good career.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>My last week (14.05-21.05)</title>
@@ -26,58 +73,110 @@
     </item>
     
     <item>
-      <title>Языки научного программирования</title>
+      <title>Scientific programming languages</title>
       <link>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</link>
       <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</guid>
-      <description>&lt;h1 id=&#34;введение&#34;&gt;Введение&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;Научное программирование — высокоориентированный стиль программирования для научных расчетов. От других видов программирования его отличают предельные корректность и стабильность конечного продукта, строгое разделение научной и интерфейсной частей, индивидуальность алгоритмов, а также преобладание эффективности над универсальностью.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Научное программирование лежит в основе любого современного глобального исследования. Все передовые технологии — от квантовых компьютеров до космических программ — были бы невозможны без специалистов в области научного программирования, способных предоставить ученым надежный и точный инструмент для совершения открытий.
-Ряд отраслей науки непосредственно зависят от уровня развития научного программирования. Так, своего исполнения ждут беспилотный транспорт, «умные» системы управления городским и сельским хозяйством, фондовыми биржами; ждут робототехника, генная инженерия, искусственный интеллект, превосходящий возможности человека.&lt;/p&gt;
-&lt;h1 id=&#34;специализации&#34;&gt;Специализации&lt;/h1&gt;
-&lt;p&gt;Ученые используют различные языки программирования, выбор которых зависит от типа задачи и предпочтений автора. Исторически первым высокоуровневым языком программирования является Fortran, на нем написано много отлаженных библиотек математической статистики и библиотек для решения дифференциальных уравнений, что актуально для экономики и биологии соответственно.
-Более простым синтаксисом обладает Python, также подходящий для программирования математических вычислений. Язык Python привлекается для обработки данных в математике, физике, экономике, биологии, химии и умеет работать с некоторыми другими «научными» языками: Fortran, C++, C#.
-В свою очередь C# позволяет программировать на платформе .NET, адаптировать программу к общеязыковой исполняющей среде (CLR) и ускорить разработку в рамках оперативных научных сессий.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Отличная новость  -  из огромного разнообразия видов деятельности программист-ученый имеет возможность  выбрать именно то, что больше соответствует его способностям и при этом исходить в этом выборе только из личных предпочтений.&lt;/strong&gt; Перечислим основные виды:&lt;/p&gt;
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Scientific programming is a highly oriented programming style for scientific calculations. It is distinguished from other types of programming by the extreme correctness and stability of the final product, the strict separation of the scientific and interface parts, the individuality of algorithms, as well as the predominance of efficiency over versatility.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Scientific programming is at the heart of any modern global research. All advanced technologies — from quantum computers to space programs — would be impossible without specialists in the field of scientific programming, able to provide scientists with a reliable and accurate tool for making discoveries.
+A number of branches of science directly depend on the level of development of scientific programming. So, unmanned vehicles, &amp;ldquo;smart&amp;rdquo; control systems for urban and agricultural management, stock exchanges are waiting for their execution; robotics, genetic engineering, artificial intelligence that surpasses human capabilities are waiting for them.&lt;/p&gt;
+&lt;h1 id=&#34;specializations&#34;&gt;Specializations&lt;/h1&gt;
+&lt;p&gt;Scientists use various programming languages, the choice of which depends on the type of task and the preferences of the author. Historically, the first high-level programming language is Fortran, it has written many well-established libraries of mathematical statistics and libraries for solving differential equations, which is relevant for economics and biology, respectively.
+Python has a simpler syntax, which is also suitable for programming mathematical calculations. Python is used for data processing in mathematics, physics, economics, biology, chemistry and is able to work with some other &amp;ldquo;scientific&amp;rdquo; languages: Fortran, C++, C#.
+In turn, C# allows programming on the platform.NET, adapt the program to the common language runtime environment (CLR) and accelerate development in the framework of operational scientific sessions.&lt;/p&gt;
+&lt;p&gt;** Great news - from a huge variety of activities, a programmer-scientist has the opportunity to choose exactly what best suits his abilities and at the same time proceed in this choice only from personal preferences.** Let &amp;rsquo;s list the main types:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;АЛГОРИТМЫ.&lt;/li&gt;
+&lt;li&gt;ALGORITHMS.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Поиск, сортировка, шифрование, детектинг ошибок в системах коммуникаций. Данная область будет всегда приковывать к себе самое большое внимание практичностью решаемых проблем;&lt;/p&gt;
+&lt;p&gt;Search, sorting, encryption, error detection in communication systems. This area will always attract the greatest attention to the practicality of the problems being solved;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;ЯЗЫКИ ПРОГРАММИРОВАНИЯ И КОМПИЛЯТОРЫ.&lt;/li&gt;
+&lt;li&gt;PROGRAMMING LANGUAGES AND COMPILERS.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Сюда отнесем также оптимизацию уже существующих аналогов. Это вполне творческая и хорошо поддающаяся исследованиям ниша, хотя пик популярности ее уже проходит.&lt;/p&gt;
+&lt;p&gt;This also includes the optimization of existing analogues. This is quite a creative and researchable niche, although the peak of its popularity is already passing.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ.&lt;/li&gt;
+&lt;li&gt;ARTIFICIAL INTELLIGENCE.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Все что лежит на грани фантастики:  распознавание текста, изображений и голоса, семантический анализ текста, самообучающиеся нейронные сети и нейросетевое программирование как одно из самых привлекательных и перспективных направлений. Именно эта область может предложить максимальные сюрпризы;&lt;/p&gt;
+&lt;p&gt;Everything that lies on the verge of fiction: text, image and voice recognition, semantic text analysis, self-learning neural networks and neural network programming as one of the most attractive and promising areas. It is this area that can offer maximum surprises;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;СУПЕРКОМПЬЮТЕР И КВАНТОВАЯ ТЕОРИЯ&lt;/li&gt;
+&lt;li&gt;SUPERCOMPUTER AND QUANTUM THEORY&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Представляет из себя комплекс задач и понятий, которые пока находятся за гранью наших технологических и интеллектуальных возможностей.&lt;/p&gt;
+&lt;p&gt;It is a complex of tasks and concepts that are still beyond our technological and intellectual capabilities.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;МНОГОЯДЕРНЫЕ СИСТЕМЫ&lt;/li&gt;
+&lt;li&gt;MULTICORE SYSTEMS&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Развитие концепции ускорения работы систем за счет параллельного много-поточного программирования.  Эта сфера стремительно набирает обороты.&lt;/p&gt;
+&lt;p&gt;Development of the concept of accelerating the operation of systems through parallel multi-threaded programming. This area is rapidly gaining momentum.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;РОБОТЫ и  ПРОИЗВОДСТВЕННАЯ АВТОМАТИКА.&lt;/li&gt;
+&lt;li&gt;ROBOTS and PRODUCTION AUTOMATION.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Сугубо практическая сфера, напрямую связана с промышленным использованием программных разработок, поэтому и самая освоенная еще с 80гг  прошлого века.&lt;/p&gt;
+&lt;p&gt;It is a purely practical sphere, directly related to the industrial use of software developments, and therefore the most mastered since the 80s of the last century.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;СОЗДАНИЕ СИСТЕМ ВИРТУАЛЬНОЙ РЕАЛЬНОСТИ&lt;/li&gt;
+&lt;li&gt;CREATION OF VIRTUAL REALITY SYSTEMS&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Вот где пересекается психология и программирование наиболее плотно.  Работа в этом направлении в идеале может приносит плоды в виде появления новый систем обучения.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s where psychology and programming intersect most tightly. Ideally, work in this direction can bear fruit in the form of the emergence of new training systems.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;МОДЕЛИРОВАНИЕ СИСТЕМ  (CAD/CAM)&lt;/li&gt;
+&lt;li&gt;SYSTEM MODELING (CAD/CAM)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Инженерная дисциплина, специалисты которой  в высокой степени  востребованы для решения проблем сугубо-практических задач коммуникации, и неважно сетевая ли это коммуникация, газотрубная или водопроводная.&lt;/p&gt;
+&lt;p&gt;Engineering discipline, whose specialists are in high demand for solving problems of purely practical communication tasks, and it does not matter whether it is network communication, gas pipe or water supply.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;КОМПЬЮТЕРНАЯ ГРАФИКА&lt;/li&gt;
+&lt;li&gt;COMPUTER GRAPHICS&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Решает насущный спектр вопросов касающихся разработок в области ускорения обработки графики в компьютерных системах, а также улучшением цветопередачи.&lt;/p&gt;
-&lt;h1 id=&#34;заключение&#34;&gt;Заключение&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;Программирование двигает науку, которая двигает технический прогресс. Изобретения, которые считались революционными вчера, в XXI веке служат бытовым потребностям: СВЧ-печь, мобильный телефон, 8-битная домашняя ЭВМ. От программиста-ученого зависит, каких вершин достигнет наука сегодня и какие из них завтра войдут в каждый дом.&lt;/strong&gt;
-&lt;strong&gt;В руках программиста-ученого находятся инструменты не только для развития промышленности, но и для повышения общего качества жизни. Такой специалист увеличивает прогностическую функцию человечества, помогая предугадывать и предотвращать климатические, финансовые, гуманитарные катастрофы.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Solves an urgent range of issues related to developments in the field of accelerating graphics processing in computer systems, as well as improving color rendering.&lt;/p&gt;
+&lt;h1 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h1&gt;
+&lt;p&gt;** Programming moves science, which moves technological progress. Inventions that were considered revolutionary yesterday serve everyday needs in the XXI century: Microwave oven, mobile phone, 8-bit home computer. It depends on the programmer-scientist which peaks science will reach today and which of them will enter every home tomorrow.**
+&lt;strong&gt;In the hands of a programmer-scientist there are tools not only for the development of industry, but also for improving the overall quality of life. Such a specialist increases the prognostic function of humanity, helping to anticipate and prevent climatic, financial, humanitarian disasters.&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Easy markup languages</title>
+      <link>https://example.com/post/%D0%BE%D0%B1-%D0%BB%D0%B5%D0%B3%D0%BA%D0%BE%D0%B2%D0%B5%D1%81%D0%BD%D1%8B%D1%85-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0%D1%85-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8/</link>
+      <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%BE%D0%B1-%D0%BB%D0%B5%D0%B3%D0%BA%D0%BE%D0%B2%D0%B5%D1%81%D0%BD%D1%8B%D1%85-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0%D1%85-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8/</guid>
+      <description>&lt;h1 id=&#34;what-is-a-markup-language&#34;&gt;What is a &amp;ldquo;markup language&amp;rdquo;?&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Markup language&lt;/strong&gt; is a set of codes that, when applied to plain text, allows you to add one or more of the following properties (among others):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Define the text&lt;/li&gt;
+&lt;li&gt;Structure the text&lt;/li&gt;
+&lt;li&gt;Describe the layout of the text&lt;/li&gt;
+&lt;li&gt;Decorate the text
+One markup language you encounter every day (unless you&amp;rsquo;re a hermit) is hypertext markup language, or HTML. Websites and apps that bring you news and show you your email are built, at least in part, with HTML markup using tags as a mechanism to mark up raw text content. For example, consider the following HTML fragment:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;body&gt; &lt;h1&gt;Introducing HTML&lt;/h1&gt; &lt;p&gt;Here is a paragraph in HTML... we know it&#39;s a &lt;strong&gt;paragraph&lt;/strong&gt; because the surrounding \&lt;p\&gt; tags define it as one.&lt;/p&gt; &lt;/body&gt;
+&lt;p&gt;Here, the &amp;ldquo;p&amp;rdquo; tag indicates that all subsequent text, up to the closing &lt;/p&gt; tag, is a paragraph. In this sense, it defines the text as a paragraph.&lt;/p&gt;
+&lt;p&gt;But pay attention also to the &amp;ldquo;body&amp;rdquo; tags&amp;hellip; they often serve to determine the layout of a web page, for example, how many fields are on the side of the screen.&lt;/p&gt;
+&lt;p&gt;And the &amp;ldquo;strong&amp;rdquo; tags will decorate the word &amp;ldquo;paragraph&amp;rdquo; in bold, and the &amp;ldquo;h1&amp;rdquo; tags can both mark up the title (separate it from the surrounding text) and define a larger font.&lt;/p&gt;
+&lt;p&gt;The problem with some markup languages (among them HTML) is that entering these tags manually is a very tedious task. And with other languages like XML, tags and their attributes make up more of the overall content than the text itself!&lt;/p&gt;
+&lt;h1 id=&#34;enter-a-lightweight-markup-language&#34;&gt;Enter a lightweight markup language&lt;/h1&gt;
+&lt;p&gt;If you wanted to take advantage of markup languages, for example by publishing an HTML page on the internet or converting a DocBook file to PDF so that it could be printed, you had to do one of two things. On the one hand, you can spend time learning these languages inside and out, writing them down manually, and then checking your work three times. Or you could invest the money in a tool that manages the complexity of them for you.&lt;/p&gt;
+&lt;p&gt;Fortunately, some enterprising developers have come up with a third option. They created new markup languages that contained many (in some cases most or all) of the functions of heavier analogues, but greatly simplified the syntax. These &amp;ldquo;light&amp;rdquo; languages include the familiar Markdown as well as Asciidoc, the Egc format in Org mode and the Mediawiki syntax.&lt;/p&gt;
+&lt;h1 id=&#34;lightweight-markup-languages-have-a-simple-syntax&#34;&gt;Lightweight markup languages have a simple syntax&lt;/h1&gt;
+&lt;p&gt;One of the distinguishing features of these languages is that their &amp;ldquo;tags&amp;rdquo; (such as they are) should be intuitive. Let&amp;rsquo;s look at the previous fragment, this time written in Asciidoc:&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Introducing Asciidoc &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash; Where are the &lt;em&gt;paragraph&lt;/em&gt; tags? We dont need them&amp;hellip; Asciidoc is smart enough to realize this is a paragraph!&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Much more readable, no? Starting from the top, we can identify the title, since it is &amp;ldquo;underlined&amp;rdquo; with strokes. You could do this if you were writing by hand, just draw an underscore under the page title in notepad. There are also no paragraph tags — Asciidoc treats anything between two empty lines that don&amp;rsquo;t have any other markup on them as &amp;ldquo;plain&amp;rdquo; paragraph text. Finally, the asterisks around the word &amp;ldquo;paragraph&amp;rdquo; are indicated in bold. Raise your hand if you did it in a text message to mean the same thing.&lt;/p&gt;
+&lt;p&gt;Each has one or more corresponding processors
+Heavy-weight markup languages usually have a special application for their interpretation. On the Internet, your browser and, possibly, a web server will turn the code into bright web pages. For documents in XML format, it can be something like Microsoft Word, which reads and writes in DOCX format. (this is another XML dialect). This way you will never have to interact directly with the source of these documents, only the cute facades that your applications show.&lt;/p&gt;
+&lt;p&gt;Meanwhile, documents written in light languages are read by a person in their original form (another tenant), but only true nerds can consider them beautiful. To get a good result, you need to use a processor. These are applications that will consistently go through your markup and transform it into something else that looks good. The same projects that develop the language itself, as a rule, create a utility for its use. The Markdown project offers a Perl script with the same name, and the accompanying Asciidoc program is written in Python. In addition, other conversion utilities will include support for some of these languages. One such example is the excellent Pandoc, which will use Markdown, as well as lightweight tagging, restructured text, Mediawiki and Org-Mode and convert them to PDF, DOCX, ODT and others.&lt;/p&gt;
+&lt;h1 id=&#34;asciidoc-markdown-pandoc-formats&#34;&gt;Asciidoc markdown Pandoc formats&lt;/h1&gt;
+&lt;p&gt;As a result, lightweight markup languages allow you to work with plain text, the most portable data format on the planet, but in the end they still give a beautiful result. Now that you are convinced of its merits, which language to choose? Markdown is undoubtedly the most popular and has its advantages (more on this later). But Asciidoc, in particular, is a worthy alternative. In the next section, we&amp;rsquo;ll look at a few reasons why.&lt;/p&gt;
+&lt;h1 id=&#34;comparison-of-markdown-and-asciidoc&#34;&gt;Comparison of Markdown and Asciidoc&lt;/h1&gt;
+&lt;p&gt;The Asciidoc format was created to simplify DocBook, one of the most common formats when writing long (especially technical) texts. One of the requirements for fame is that it is a one-on-one translation, that is, for each element in the DocBook there is a corresponding representation in Asciidoc. Below we will look at some pros and cons of Asciidoc compared to Markdown.&lt;/p&gt;
+&lt;h1 id=&#34;asciidoc-covers-a-superset-of-written-elements&#34;&gt;Asciidoc covers a superset of written elements&lt;/h1&gt;
+&lt;p&gt;The goal of Markdown from the very beginning was to create a simple format for web writers. Thus, the entry elements it supports (at least the original implementation, see below) are aimed at automating the more time-consuming aspects of HTML writing (lists, for example, that require &lt;ol&gt; or &lt;ul&gt; tags in addition to &lt;li&gt; tags for each element).&lt;/p&gt;
+&lt;h1 id=&#34;complex-asciidoc-markdown-formats&#34;&gt;Complex asciidoc markdown formats&lt;/h1&gt;
+&lt;p&gt;Asciidoc also contains them, but also offers more advanced DocBook elements, such as warnings (for example, &amp;ldquo;Note:&amp;rdquo; or &amp;ldquo;Info:&amp;rdquo; callout blocks) and complex table layouts. That doesn&amp;rsquo;t mean you have to use them all the time, but they will be there and available if you ever need them.&lt;/p&gt;
+&lt;h1 id=&#34;asciidoc-is-a-single-format&#34;&gt;Asciidoc is a single format&lt;/h1&gt;
+&lt;p&gt;When the popularity of Markdown began to decline, some of its users began to face some of the disadvantages described above. So these users started developing their own extensions to solve these problems, such as the ability to add tables or footnotes/notes. Soon, many &amp;ldquo;flavors&amp;rdquo; of Markdown appeared, including (among others):&lt;/p&gt;
+&lt;p&gt;The flavor used by Github for the &amp;ldquo;Readme&amp;rdquo; files of the projects it hosted.
+An &amp;ldquo;extended&amp;rdquo; version based on the PHP port of the original Markdown, with additional HTML-related features.
+A fragrance called &amp;ldquo;MultiMarkdown&amp;rdquo;, which implements many functions of writing longer forms, including citations, definitions and cross-references.
+As a result, your document may require elements that are not all covered by the same flavor. In contrast, Asciidoc does not suffer from the same fragmentation as Markdown currently does.&lt;/p&gt;
+&lt;h1 id=&#34;asciidoc-is-aimed-at-a-variety-of-publishing-styles&#34;&gt;Asciidoc is aimed at a variety of publishing styles&lt;/h1&gt;
+&lt;p&gt;Markdown is great for quickly getting a blog post out of your head and onto the page. But out of the box it is not designed to structure longer works like a book. Asciidoc is designed for this, and one example is its &amp;ldquo;enable&amp;rdquo; functions. These operators allow you to include the entire contents of one file in another:
+include::somefile.adoc&lt;/p&gt;
+&lt;p&gt;This is not much different from how basic documents work in text editors. This allows, for example, to compose each chapter as a separate file, and then &amp;ldquo;include&amp;rdquo; them all in one file representing the book. When you process this &amp;ldquo;book file&amp;rdquo;, the result will be as if all the chapters were written directly into this document.&lt;/p&gt;
+&lt;p&gt;#Markdown is enough for most users&lt;/p&gt;
+&lt;p&gt;Markdown covers all the basics for most users. For those who are just looking for a blog or printing some notes in text format, Markdown supports all the elements they will need. Cross-references mean little to a user who just wants to create a simple note or web page. You could even use Markdown for longer works with simple layouts like roman&amp;quot; and combine them yourself at the end.&lt;/p&gt;
 </description>
     </item>
     
@@ -108,414 +207,224 @@
     </item>
     
     <item>
-      <title>Легкие языки разметки</title>
-      <link>https://example.com/post/%D0%BE%D0%B1-%D0%BB%D0%B5%D0%B3%D0%BA%D0%BE%D0%B2%D0%B5%D1%81%D0%BD%D1%8B%D1%85-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0%D1%85-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8/</link>
-      <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/%D0%BE%D0%B1-%D0%BB%D0%B5%D0%B3%D0%BA%D0%BE%D0%B2%D0%B5%D1%81%D0%BD%D1%8B%D1%85-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0%D1%85-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8/</guid>
-      <description>&lt;h1 id=&#34;что-такое-язык-разметки&#34;&gt;Что такое «язык разметки»?&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;Язык разметки&lt;/strong&gt; — это набор кодов, который при применении к обычному тексту позволяет добавить одно или несколько из следующих свойств (среди прочих):&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Определите текст&lt;/li&gt;
-&lt;li&gt;Структурировать текст&lt;/li&gt;
-&lt;li&gt;Опишите макет текста&lt;/li&gt;
-&lt;li&gt;Украсить текст
-Один язык разметки, с которым вы сталкиваетесь каждый день (если вы не отшельник), — это язык разметки гипертекста, или HTML. Веб-сайты и приложения, которые приносят вам новости и показывают вашу электронную почту, построены, по крайней мере частично, с разметкой HTML использует теги в качестве механизма для разметки необработанного текстового содержимого. Например, рассмотрим следующий фрагмент HTML:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;body&gt; &lt;h1&gt;Introducing HTML&lt;/h1&gt; &lt;p&gt;Here is a paragraph in HTML... we know it&#39;s a &lt;strong&gt;paragraph&lt;/strong&gt; because the surrounding \&lt;p\&gt; tags define it as one.&lt;/p&gt; &lt;/body&gt;
-&lt;p&gt;Здесь тег &amp;ldquo;p&amp;rdquo; указывает, что весь последующий текст, вплоть до закрывающего тега &amp;lt;/ p&amp;gt;, является абзацем. В этом смысле он определяет текст как абзац.&lt;/p&gt;
-&lt;p&gt;Но обратите внимание также на теги &amp;ldquo;body&amp;rdquo; … они часто служат для определения макета веб-страницы, например, сколько полей находится на боковой стороне экрана.&lt;/p&gt;
-&lt;p&gt;А теги &amp;ldquo;strong&amp;rdquo; будут украшать слово «абзац» жирным шрифтом, а теги &amp;ldquo;h1&amp;rdquo; могут как размечать заголовок (отделять его от окружающего текста), так и определять шрифт большего размера.&lt;/p&gt;
-&lt;p&gt;Проблема с некоторыми языками разметки (среди них HTML) заключается в том, что ввод этих тегов вручную является очень утомительным делом. И с другими языками, такими как XML , теги и их атрибуты составляют большую часть общего содержимого, чем сам текст!&lt;/p&gt;
-&lt;h1 id=&#34;введите-облегченный-язык-разметки&#34;&gt;Введите облегченный язык разметки&lt;/h1&gt;
-&lt;p&gt;Если вы хотите воспользоваться преимуществами языков разметки, например, путем публикации HTML-страницы в Интернете или преобразования файла DocBook в PDF, чтобы его можно было распечатать, вам нужно было сделать одну из двух вещей. С одной стороны, вы можете потратить время, изучая эти языки изнутри и снаружи, записывая их вручную, а затем трижды проверяя свою работу. Или вы могли бы инвестировать деньги в инструмент, который управляет сложностью их для вас.&lt;/p&gt;
-&lt;p&gt;К счастью, некоторые предприимчивые разработчики придумали третий вариант. Они создали новые языки разметки, которые содержали многие (в некоторых случаях большинство или все) функции более тяжелых аналогов, но значительно упростили синтаксис. Эти «легкие» языки включают в себя знакомую Markdown а также Asciidoc, формат Egc в режиме Org и синтаксис Mediawiki.&lt;/p&gt;
-&lt;h1 id=&#34;легкие-языки-разметки-имеют-простой-синтаксис&#34;&gt;Легкие языки разметки имеют простой синтаксис&lt;/h1&gt;
-&lt;p&gt;Одним из отличительных признаков этих языков является то, что их «теги» (такие как они) должны быть интуитивно понятными. Давайте посмотрим на предыдущий фрагмент, на этот раз написанный на Asciidoc:&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;Introducing Asciidoc &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash; Where are the &lt;em&gt;paragraph&lt;/em&gt; tags? We dont need them&amp;hellip; Asciidoc is smart enough to realize this is a paragraph!&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;Намного более читабельно, нет? Начиная сверху, мы можем определить заголовок, так как он «подчеркнут» штрихами. Вы могли бы сделать это, если бы писали от руки, просто нарисуйте подчеркивание под заголовком страницы в блокноте. Также нет тегов абзаца — Asciidoc рассматривает что-либо между двумя пустыми строками, на которых нет какой-либо другой разметки, как «простой» текст абзаца. Наконец, звездочки вокруг слова «абзац» обозначают жирным шрифтом. Поднимите руку, если вы сделали это в текстовом сообщении, чтобы означать то же самое.&lt;/p&gt;
-&lt;p&gt;Каждый имеет один или несколько соответствующих процессоров
-У «тяжеловесных» языков разметки обычно есть специальное приложение для их интерпретации. В Интернете ваш браузер и, возможно, веб-сервер превратят код в яркие веб-страницы. Для документов в формате XML это может быть что-то вроде Microsoft Word, который читает и записывает в формате DOCX. (это еще один диалект XML). Таким образом, вам никогда не придется напрямую взаимодействовать с источником этих документов, только симпатичные фасады, которые показывают ваши приложения.&lt;/p&gt;
-&lt;p&gt;Между тем, документы, написанные на легких языках, читаются человеком в исходной форме (другой арендатор), но только истинные ботаники могут считать их красивыми. Чтобы получить хороший результат, вам нужно использовать процессор . Это приложения, которые будут последовательно проходить через вашу разметку и преобразовывать ее во что-то другое, что выглядит хорошо. Те же самые проекты, которые разрабатывают сам язык, как правило, создают утилиту для его использования. Проект Markdown предлагает Perl-скрипт с тем же именем, а сопутствующая программа Asciidoc написана на Python. Кроме того, другие утилиты преобразования будут включать поддержку некоторых из этих языков. Одним из таких примеров является превосходный Pandoc , который будет использовать Markdown, а также облегченные пометки, реструктурированный текст, Mediawiki и Org-Mode и преобразовывать их в PDF, DOCX, ODT и другие.&lt;/p&gt;
-&lt;h1 id=&#34;asciidoc-уценка-пандок-форматы&#34;&gt;Asciidoc уценка Пандок форматы&lt;/h1&gt;
-&lt;p&gt;В результате облегченные языки разметки позволяют вам работать с простым текстом, наиболее переносимым форматом данных на планете, но в конечном итоге все равно дают красивый результат. Теперь, когда вы убедились в его достоинствах, какой язык выбрать? Уценка, несомненно, является самой популярной и имеет свои преимущества (подробнее об этом позже). Но Asciidoc, в частности, является достойной альтернативой. В следующем разделе мы рассмотрим несколько причин, почему.&lt;/p&gt;
-&lt;h1 id=&#34;сравнение-уценки-и-asciidoc&#34;&gt;Сравнение уценки и Asciidoc&lt;/h1&gt;
-&lt;p&gt;Формат Asciidoc был создан, чтобы упростить DocBook, один из наиболее распространенных форматов при написании длинных (особенно технических) текстов. Одним из требований к славе является то, что это перевод один на один, то есть для каждого элемента в DocBook есть соответствующее представление в Asciidoc. Ниже мы рассмотрим некоторые плюсы и минусы Asciidoc по сравнению с Markdown.&lt;/p&gt;
-&lt;h1 id=&#34;asciidoc-покрывает-надмножество-письменных-элементов&#34;&gt;Asciidoc покрывает надмножество письменных элементов&lt;/h1&gt;
-&lt;p&gt;Целью Markdown с самого начала было создание простого формата для веб-писателей. Таким образом, элементы записи, которые он поддерживает (по крайней мере, оригинальная реализация, см. Ниже), направлены на автоматизацию более трудоемких аспектов написания HTML (списки, например, для которых требуются теги &amp;lt; ol &amp;gt; или &amp;lt; ul &amp;gt; в дополнение к &amp;lt; теги li&amp;gt; для каждого элемента).&lt;/p&gt;
-&lt;h1 id=&#34;сложные-форматы-уценки-asciidoc&#34;&gt;Сложные форматы уценки asciidoc&lt;/h1&gt;
-&lt;p&gt;Asciidoc также содержит их, но также предлагает более продвинутые элементы DocBook, такие как предупреждения (например, блоки выноски «Примечание:» или «Информация:») и сложные макеты таблиц. Это не значит, что вы должны использовать их все время, но они будут там и доступны, если они вам когда-нибудь понадобятся.&lt;/p&gt;
-&lt;h1 id=&#34;asciidoc--это-единый-формат&#34;&gt;Asciidoc — это единый формат&lt;/h1&gt;
-&lt;p&gt;Когда популярность Markdown начала снижаться, некоторые из ее пользователей начали сталкиваться с некоторыми из недостатков, описанных выше. Таким образом, эти пользователи начали разрабатывать свои собственные расширения для решения этих проблем, такие как возможность добавлять таблицы или сноски / примечания. Вскоре появилось много «ароматов» Markdown, в том числе (среди прочих):&lt;/p&gt;
-&lt;p&gt;Аромат, используемый Github для файлов «Readme» проектов, которые он размещал.
-«Расширенный» вариант, созданный на основе PHP-порта оригинальной Markdown, с дополнительными функциями, связанными с HTML.
-Аромат под названием «MultiMarkdown», в котором реализованы многие функции написания более длинных форм, включая цитаты, определения и перекрестные ссылки.
-В результате ваш документ может потребовать элементы, которые не все покрыты одним ароматом. Напротив, Asciidoc не страдает от той же фрагментации, что и Markdown в настоящее время.&lt;/p&gt;
-&lt;h1 id=&#34;asciidoc-нацелен-на-разнообразие-издательских-стилей&#34;&gt;Asciidoc нацелен на разнообразие издательских стилей&lt;/h1&gt;
-&lt;p&gt;Markdown отлично подходит для быстрого получения сообщения из блога из вашей головы и на страницу. Но из коробки он не создан для структурирования более длительных работ, как книга. Asciidoc предназначен для этого, и одним из примеров являются его функции «включения». Эти операторы позволяют вам включать все содержимое одного файла в другой:
-include::somefile.adoc&lt;/p&gt;
-&lt;p&gt;Это мало чем отличается от того, как основные документы работают в текстовых редакторах. Это позволяет, например, составить каждую главу как отдельный файл, а затем «включить» их все в один файл, представляющий книгу. Когда вы обрабатываете этот «книжный файл», результат будет таким, как если бы все главы были записаны непосредственно в этот документ.&lt;/p&gt;
-&lt;h1 id=&#34;markdown-достаточно-для-большинства-пользователей&#34;&gt;Markdown достаточно для большинства пользователей&lt;/h1&gt;
-&lt;p&gt;Уценка охватывает все основы для большей части пользователей. Для тех, кто просто ищет блог или печатает некоторые заметки в текстовом формате, Markdown поддерживает все элементы, которые им понадобятся. Перекрестные ссылки мало что значат для пользователя, который просто хочет создать простую заметку или веб-страницу. Вы могли бы даже использовать Markdown для более длительных работ с простыми макетами, такими как роман « , и объедините их самостоятельно в конце.&lt;/p&gt;
-&lt;h1 id=&#34;уценка-лучше-поддерживается&#34;&gt;Уценка лучше поддерживается&lt;/h1&gt;
-&lt;p&gt;Поскольку Markdown отвечает потребностям более широкого сегмента пользователей, в конечном итоге его лучше поддерживают с точки зрения следующего:&lt;/p&gt;
-&lt;p&gt;Редакторы WYSIWYG (как определено теми, которые по крайней мере предоставляют предварительный просмотр в реальном времени) с большей вероятностью поддерживают Markdown.
-Онлайн-сервисы, такие как вышеупомянутый Github, с большей вероятностью принимают Markdown напрямую или с помощью дополнений.
-Хотя такие системы публикации, как генераторы статических сайтов чаще Поддерживать Asciidoc с плагинами, то, что они поддерживают Markdown из коробки, это почти само собой разумеющееся.&lt;/p&gt;
-&lt;h1 id=&#34;готовы-ли-вы-попробовать-asciidoc&#34;&gt;Готовы ли вы попробовать Asciidoc?&lt;/h1&gt;
-&lt;p&gt;Хотя Markdown является чем-то де-факто выбором среди облегченных языков разметки, Asciidoc содержит все те же элементы, а затем и некоторые. Дополнительные сведения об Asciidoc требуют некоторого времени для изучения, поскольку они могут лучше подготовить вас к более крупным и сложным письменным проектам.&lt;/p&gt;
-&lt;p&gt;Что вы думаете? Довольны ли вы простотой Markdown? Или создаете свой собственный рабочий процесс многоканальной публикации с заманчивым Asciidoc? Возможно, вы ненавидите простой текст, и это Слово для вас полностью? Дайте нам знать в комментариях ниже!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Оформление отчёта в Markdown</title>
+      <title>The design of the report in Markdown</title>
       <link>https://example.com/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</link>
       <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BE%D1%82%D1%87%D0%B5%D1%82%D0%B0/</guid>
-      <description>&lt;p&gt;Настоящий документ предназначен для ознакомления пользователя с функциональными возможностями языка разметки Markdown.
-Markdown – это облегченный язык разметки, который является инструментом преобразования кода в HTML.
-Главной особенностью данного языка является максимально простой синтаксис, который служит для упрощения написания и чтения кода разметки, что, в свою очередь, позволяет легко его корректировать.
-Теперь рассмотрим более подробно функции языка разметки Markdown.&lt;/p&gt;
-&lt;p&gt;Markdown не является заменой HTML. Синтаксис Markdown достаточно ограничен, и соответствует лишь небольшому подмножеству элементов HTML. Он включает в себя следующие элементы:&lt;/p&gt;
+      <description>&lt;p&gt;This document is intended to familiarize the user with the functionality of the Markdown markup language.
+Markdown is a lightweight markup language that is a tool for converting code to HTML.
+The main feature of this language is the simplest syntax, which serves to simplify writing and reading markup code, which, in turn, makes it easy to correct it.
+Now let&amp;rsquo;s take a closer look at the functions of the Markdown markup language.&lt;/p&gt;
+&lt;p&gt;Markdown is not a replacement for HTML. The Markdown syntax is quite limited, and corresponds to only a small subset of HTML elements. It includes the following elements:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Блочные элементы&lt;/li&gt;
+&lt;li&gt;Block elements&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#Parag&#34;&gt;Параграфы и разрывы строк&lt;/a&gt;;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#Headers&#34;&gt;Заголовки&lt;/a&gt;;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#Blockquotes&#34;&gt;Цитаты&lt;/a&gt;;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#Lists&#34;&gt;Списки&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#CodeBlocks&#34;&gt;Блоки кода&lt;/a&gt;;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#Lines&#34;&gt;Горизонтальные (разделительные) линии&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#Parag&#34;&gt;Paragraphs and Line Breaks&lt;/a&gt;;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#Headers&#34;&gt;Headers&lt;/a&gt;;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#Blockquotes&#34;&gt;Quotes&lt;/a&gt;;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#Lists&#34;&gt;Lists&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#CodeBlocks&#34;&gt;Code Blocks&lt;/a&gt;;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#Lines&#34;&gt;Horizontal (dividing) lines&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;Строчные элементы&lt;/li&gt;
+&lt;li&gt;Lowercase elements&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;#Links&#34;&gt;Ссылки&lt;/a&gt;;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#Emphasis&#34;&gt;Выделение текста&lt;/a&gt;;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#Code&#34;&gt;Кодовые фрагменты строк&lt;/a&gt;;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#Images&#34;&gt;Изображения&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#Links&#34;&gt;Links&lt;/a&gt;;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#Emphasis&#34;&gt;Text Selection&lt;/a&gt;;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#Code&#34;&gt;Code fragments of strings&lt;/a&gt;;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#Images&#34;&gt;Images&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol start=&#34;3&#34;&gt;
-&lt;li&gt;Дополнительные элементы&lt;/li&gt;
+&lt;li&gt;Additional elements&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
-&lt;li&gt;[Обратный слеш](#Backslash Escapes);&lt;/li&gt;
-&lt;li&gt;[Автоматические ссылки](#Automatic Links);&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#SpecialSymbol&#34;&gt;Специальные символы HTML&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;[Backslash](#Backslash Escapes);&lt;/li&gt;
+&lt;li&gt;[Automatic Links](#Automatic Links);&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#SpecialSymbol&#34;&gt;HTML Special Characters&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Более подробно с перечисленными функциями можно ознакомиться в разделе «Описание синтаксиса».&lt;/p&gt;
-&lt;h1 id=&#34;описание-синтаксиса&#34;&gt;ОПИСАНИЕ СИНТАКСИСА&lt;/h1&gt;
-&lt;h2 id=&#34;блочные-элементы&#34;&gt;Блочные элементы&lt;/h2&gt;
-&lt;h5 id=&#34;a-nameparagaпараграфы-и-разрывы-строк&#34;&gt;&lt;a name=&#34;Parag&#34;&gt;&lt;/a&gt;	Параграфы и разрывы строк&lt;/h5&gt;
-&lt;p&gt;Для того, чтобы создать параграф с использованием синтаксиса языка Markdown, достаточно отделить строки текста одной (или более) пустой строкой (пустой считается всякая строка, которая не содержит в себе ничего, кроме пробелов и символов табуляции).
-Для того, чтобы вставить видимый перенос строки (элемент &lt;code&gt;&amp;lt;br/&amp;gt;&lt;/code&gt;) необходимо окончить строку двумя пробелами и нажатием клавиши «Enter».
-Многие элементы синтаксиса Markdown выглядят и работают гораздо лучше в случае, когда их форматируют с помощью «жесткого перевода строк» (разделение строк, осуществленное самим пользователем, а не программой автоматически). К таким элементам относятся цитаты, списки и пр.&lt;/p&gt;
-&lt;h5 id=&#34;a-nameheadersa-заголовки&#34;&gt;&lt;a name=&#34;Headers&#34;&gt;&lt;/a&gt; Заголовки&lt;/h5&gt;
-&lt;p&gt;Язык разметки Markdown поддерживает 2 стиля обозначения заголовков: подчеркивание и выделение символом («#»).
-Выделение заголовков с помощью подчеркивания производится знаками равенства («=») в случае, если заголовок первого уровня, и дефисами («-») в случае, если заголовок второго уровня. Количество знаков подчеркивания не ограничивается.
-При выделении заголовков с помощью символа («#») используется от одного до шести данных символов, которые устанавливаются в начале строки (перед заголовком). В данном случае количество символов соответствует уровню заголовка. Кроме того, заголовок возможно снабдить закрывающимися символами («#»), хотя это и не является обязательным. Количество закрывающихся символов не обязано соответствовать количеству начальных символов. Уровень заголовка определяется по количеству начальных символов.&lt;br&gt;
-Заголовки первого и второго уровней, выполненные с помощью подчеркивания, выглядят следующим образом:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Заголовок первого уровня
-========================
-Заголовок второго уровня
--------------------------
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Заголовки первого, третьего и шестого уровней, выполненные с помощью символа («#»), выглядят следующим образом:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;#  Заголовок первого уровня
-### Заголовок третьего уровня
-###### Заголовок шестого уровня
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Приведенные выше заголовки, выполненные с помощью символа («#») тождественны следующим:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;#  Заголовок первого уровня #
-### Заголовок третьего уровня ###
-###### Заголовок шестого уровня ######
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;В результате на экран выводится следующее:&lt;/p&gt;
-&lt;h1 id=&#34;заголовок-первого-уровня&#34;&gt;Заголовок первого уровня&lt;/h1&gt;
-&lt;h2 id=&#34;заголовок-второго-уровня&#34;&gt;Заголовок второго уровня&lt;/h2&gt;
-&lt;h1 id=&#34;заголовок-первого-уровня-1&#34;&gt;Заголовок первого уровня&lt;/h1&gt;
-&lt;h3 id=&#34;заголовок-третьего-уровня&#34;&gt;Заголовок третьего уровня&lt;/h3&gt;
-&lt;h6 id=&#34;заголовок-шестого-уровня&#34;&gt;Заголовок шестого уровня&lt;/h6&gt;
-&lt;h5 id=&#34;a-nameblockquotesa-цитаты&#34;&gt;&lt;a name=&#34;Blockquotes&#34;&gt;&lt;/a&gt; 	Цитаты&lt;/h5&gt;
-&lt;p&gt;Для обозначения цитат в языке Markdown используется знак «больше» («&amp;gt;»). Его можно вставлять как перед каждой строкой цитаты, так и только перед первой строкой параграфа.
-Также синтаксис Markdown позволяет создавать вложенные цитаты (цитаты внутри цитат). Для их разметки используются дополнительные уровни знаков цитирования («&amp;gt;»).
-Цитаты в Markdown могут содержать всевозможные элементы разметки.
-Цитаты в языке Markdown выглядят следующим образом:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;gt;Это пример цитаты,
-&amp;gt;в которой перед каждой строкой
-&amp;gt;ставится угловая скобка.
-
-&amp;gt;Это пример цитаты,
-в которой угловая скобка
-ставится только перед началом нового параграфа.
-&amp;gt;Второй параграф.
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Вложение цитаты в цитату выглядит следующим образом:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;gt; Первый уровень цитирования
-&amp;gt;&amp;gt; Второй уровень цитирования
-&amp;gt;&amp;gt;&amp;gt; Третий уровень цитирования
-&amp;gt;
-&amp;gt;Первый уровень цитирования
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;В результате на экран выводится следующее:&lt;/p&gt;
+&lt;p&gt;For more information about the listed functions, see the section &amp;ldquo;Syntax Description&amp;rdquo;.&lt;/p&gt;
+&lt;h1 id=&#34;syntax-description&#34;&gt;SYNTAX DESCRIPTION&lt;/h1&gt;
+&lt;h2 id=&#34;block-elements&#34;&gt;Block elements&lt;/h2&gt;
+&lt;h5 id=&#34;a-nameparaga-paragraphs-and-line-breaks&#34;&gt;&lt;a name=&#34;Parag&#34;&gt;&lt;/a&gt; Paragraphs and line breaks&lt;/h5&gt;
+&lt;p&gt;In order to create a paragraph using the syntax of the Markdown language, it is enough to separate the lines of text with one (or more) empty line (any line that contains nothing but spaces and tab characters is considered empty).
+In order to insert a visible line break (the &lt;code&gt;&amp;lt;br/&amp;gt;&lt;/code&gt; element), you must end the line with two spaces and press the &amp;ldquo;Enter&amp;rdquo; key.
+Many elements of the Markdown syntax look and work much better when they are formatted using &amp;ldquo;hard line translation&amp;rdquo; (line separation performed by the user himself, and not by the program automatically). Such elements include quotes, lists, etc.&lt;/p&gt;
+&lt;h5 id=&#34;a-nameheadersa-headings&#34;&gt;&lt;a name=&#34;Headers&#34;&gt;&lt;/a&gt; Headings&lt;/h5&gt;
+&lt;p&gt;The Markdown markup language supports 2 styles of heading designations: underlining and highlighting with a symbol (&amp;quot;#&amp;quot;).
+Headings are highlighted using underscores with equal signs (&amp;quot;=&amp;quot;) if the title is of the first level, and hyphens (&amp;quot;-&amp;quot;) if the title is of the second level. The number of underscores is not limited.
+When selecting headers using the symbol (&amp;quot;#&amp;quot;), from one to six of these characters are used, which are set at the beginning of the line (before the header). In this case, the number of characters corresponds to the header level. In addition, it is possible to provide the title with closing characters (&amp;quot;#&amp;quot;), although this is not mandatory. The number of closing characters does not have to match the number of initial characters. The level of the title is determined by the number of initial characters.
+The headings of the first and second levels, made using underscores, look like this:&lt;/p&gt;
+&lt;h1 id=&#34;first-level-header&#34;&gt;First level header&lt;/h1&gt;
+&lt;h2 id=&#34;second-level-header&#34;&gt;Second level header&lt;/h2&gt;
+&lt;p&gt;The headers of the first, third and sixth levels, made using the symbol (&amp;quot;#&amp;quot;), look like this:&lt;/p&gt;
+&lt;h1 id=&#34;the-header-of-the-first-level&#34;&gt;The header of the first level&lt;/h1&gt;
+&lt;h3 id=&#34;third-level-header&#34;&gt;Third level header&lt;/h3&gt;
+&lt;h6 id=&#34;sixth-level-header&#34;&gt;Sixth level header&lt;/h6&gt;
+&lt;p&gt;The above headings made with the symbol (&amp;quot;#&amp;quot;) are identical to the following:&lt;/p&gt;
+&lt;h1 id=&#34;first-level-header-1&#34;&gt;First level header&lt;/h1&gt;
+&lt;h3 id=&#34;third-level-header-1&#34;&gt;Third level header&lt;/h3&gt;
+&lt;h6 id=&#34;sixth-level-header-1&#34;&gt;Sixth level header&lt;/h6&gt;
+&lt;p&gt;As a result, the following is displayed on the screen:&lt;/p&gt;
+&lt;h1 id=&#34;first-level-header-2&#34;&gt;First level header&lt;/h1&gt;
+&lt;h2 id=&#34;second-level-header-1&#34;&gt;Second level header&lt;/h2&gt;
+&lt;h1 id=&#34;first-level-header-3&#34;&gt;First level header&lt;/h1&gt;
+&lt;h3 id=&#34;third-level-header-2&#34;&gt;Third level header&lt;/h3&gt;
+&lt;h6 id=&#34;sixth-level-header-2&#34;&gt;Sixth level header&lt;/h6&gt;
+&lt;h5 id=&#34;a-nameblockquotesa-quotes&#34;&gt;&lt;a name=&#34;Blockquotes&#34;&gt;&lt;/a&gt; Quotes&lt;/h5&gt;
+&lt;p&gt;The Markdown language uses the &amp;ldquo;more&amp;rdquo; (&amp;quot;&amp;gt;&amp;quot;) sign to indicate quotations. It can be inserted both before each line of the quotation, and only before the first line of the paragraph.
+Also, the Markdown syntax allows you to create nested quotes (quotes inside quotes). Additional levels of citation marks (&amp;quot;&amp;gt;&amp;quot;) are used to mark them.
+Quotes in Markdown can contain all kinds of markup elements.
+Quotes in the Markdown language look like this:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Это пример цитаты,
-в которой перед каждой строкой
-ставится угловая скобка.&lt;/p&gt;
+&lt;p&gt;This is an example quote,
+in which
+an angle bracket is placed before each line &amp;gt;.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Это пример цитаты,
-в которой угловая скобка
-ставится только перед началом нового параграфа.&lt;/p&gt;
+&lt;p&gt;This is an example quote,
+in which the angle bracket
+it is put only before the beginning of a new paragraph.
+The second paragraph.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Embedding a quote into a quote looks like this:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;First Citation level&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Second level of citation&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Third level of citation&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;First Citation level
+As a result, the following is displayed on the screen:&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Второй параграф.&lt;/p&gt;
+&lt;p&gt;This is an example quote,
+in which before each line
+an angle bracket is placed.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Вложенная цитата:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Первый уровень цитирования&lt;/p&gt;
+&lt;p&gt;This is an example of a quote
+in which an angle bracket
+is placed just before the beginning of a new paragraph.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Второй уровень цитирования&lt;/p&gt;
+&lt;p&gt;The second paragraph.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Enclosed quote:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Третий уровень цитирования&lt;/p&gt;
+&lt;p&gt;First Citation level&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Second level of citation&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Third Citation Level&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Первый уровень цитирования&lt;/p&gt;
+&lt;p&gt;First Citation Level&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Уровень цитирования не может превышать 15-й.&lt;/p&gt;
-&lt;h5 id=&#34;a-namelistsa-списки&#34;&gt;&lt;a name=&#34;Lists&#34;&gt;&lt;/a&gt; Списки&lt;/h5&gt;
-&lt;p&gt;Markdown поддерживает упорядоченные (нумерованные) и неупорядоченные (ненумерованные) списки.
-Для формирования неупорядоченный списков используются такие маркеры, как звездочки, плюсы и дефисы. Все перечисленные маркеры могут использоваться взаимозаменяемо.
-Для формирования упорядоченных списков в качестве маркеров используются числа с точкой. Важной особенностью в данном случае является то, что сами номера, с помощью которых формируется список, не важны, так как они не оказывают влияния на выходной HTML код. Как бы ни нумеровал пользователь список, на выходе он в любом случае будет иметь упорядоченный список, начинающийся с единицы (1, 2, 3…). Эту особенность стоит учитывать в том случае, когда необходимо использовать порядковые номера элементов в списке, чтобы они соответствовали номерам, получающимся в HTML.
-Упорядоченные списки всегда следует начинать с единицы. Маркеры списков обычно начинаются с начала строки, однако они могут быть сдвинуты, но не более чем на 3 пробела. За маркером должен следовать пробел, либо символ табуляции.
-При  необходимости в список можно вставить цитату. В этом случае обозначения цитирования ( «&amp;gt;» ) нужно писать с отступом.
-Упорядоченные списки выглядят следующим образом:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;1.	Проводник
-2.	Полупроводник
-3.	Диэлектрик
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Неупорядоченные списки выглядят следующим образом:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;* Проводник
-* Полупроводник
-* Диэлектрик
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Или&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;- Проводник
-- Полупроводник
-- Диэлектрик
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Или&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;+ Проводник
-+ Полупроводник
-+ Диэлектрик
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;На выходе всех трех перечисленных вариантов имеется один и тот же результат.
-В результате на экран выводится следующее:&lt;/p&gt;
+&lt;p&gt;The citation level cannot exceed the 15th.&lt;/p&gt;
+&lt;h5 id=&#34;a-namelistsa-lists&#34;&gt;&lt;a name=&#34;Lists&#34;&gt;&lt;/a&gt; Lists&lt;/h5&gt;
+&lt;p&gt;Markdown supports ordered (numbered) and unordered (unnumbered) lists.
+Markers such as asterisks, pluses, and hyphens are used to form unordered lists. All the listed markers can be used interchangeably.
+To form ordered lists, numbers with a dot are used as markers. An important feature in this case is that the numbers themselves, with which the list is formed, are not important, since they do not affect the output HTML code. No matter how the user numbers the list, the output will in any case have an ordered list starting with one (1, 2, 3 &amp;hellip;). This feature should be taken into account when it is necessary to use the ordinal numbers of the elements in the list so that they correspond to the numbers obtained in HTML.
+Ordered lists should always start with one. List markers usually start from the beginning of the line, however, they can be shifted, but not more than 3 spaces. The marker must be followed by a space or a tab character.
+If necessary, you can insert a quote into the list. In this case, the citation notation (&amp;quot;&amp;gt;&amp;quot; ) should be indented.
+The ordered lists look like this:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Проводник&lt;/li&gt;
-&lt;li&gt;Полупроводник&lt;/li&gt;
-&lt;li&gt;Диэлектрик&lt;/li&gt;
+&lt;li&gt;Explorer&lt;/li&gt;
+&lt;li&gt;Semiconductor&lt;/li&gt;
+&lt;li&gt;Dielectric&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;и&lt;/p&gt;
+&lt;p&gt;The unordered lists look like this:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Проводник&lt;/li&gt;
-&lt;li&gt;Полупроводник&lt;/li&gt;
-&lt;li&gt;Диэлектрик&lt;/li&gt;
+&lt;li&gt;Explorer&lt;/li&gt;
+&lt;li&gt;Semiconductor&lt;/li&gt;
+&lt;li&gt;Dielectric&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Цитата, вставленная в список, выглядит следующим образом:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;1. Элемент списка с цитатой:
-
-    &amp;gt; Это цитата
-    &amp;gt; внутри элемента списка.
-
- 2. Второй элемент списка
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;В результате на экран выводится следующее:&lt;/p&gt;
+&lt;p&gt;Or&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Guide&lt;/li&gt;
+&lt;li&gt;Semiconductor&lt;/li&gt;
+&lt;li&gt;Dielectric&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Or&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Explorer&lt;/li&gt;
+&lt;li&gt;Semiconductor&lt;/li&gt;
+&lt;li&gt;Dielectric
+The output of all three listed options has the same result.
+As a result, the following is displayed on the screen:&lt;/li&gt;
+&lt;/ul&gt;
 &lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Элемент списка с цитатой:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Это цитата
-внутри элемента списка.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Второй элемент списка&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;Explorer&lt;/li&gt;
+&lt;li&gt;Semiconductor&lt;/li&gt;
+&lt;li&gt;Dielectric&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;При вставке цитат в элементы списка важно учитывать, что элементы списка должны находиться на одном уровне, а цитаты должны указываться с отступом. В случае, если правило с единым уровнем списка не соблюдается, следующий после цитаты элемент списка будет автоматически нумероваться цифрой «1.».
-Кроме того, при необходимости в список можно вставить исходный код. В этом случае его нужно писать с двойным отступом – 8 пробелов или 2 символа табуляции.&lt;/p&gt;
+&lt;p&gt;and&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Элемент списка, содержащий исходный код&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt; &amp;lt;исходный код &amp;gt;  
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/li&gt;
+&lt;li&gt;Explorer&lt;/li&gt;
+&lt;li&gt;Semiconductor&lt;/li&gt;
+&lt;li&gt;Dielectric&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h5 id=&#34;a-namecodeblocksa-блоки-кода&#34;&gt;&lt;a name=&#34;CodeBlocks&#34;&gt;&lt;/a&gt; Блоки кода&lt;/h5&gt;
-&lt;p&gt;Отформатированные блоки кода используются в случае необходимости процитировать исходный код программ или разметки.
-Для создания блока кода в языке Markdown необходимо каждую строку параграфа начинать  с отступа, состоящего из четырех пробелов или  одного символа табуляции. Блок кода продолжается до тех пор, пока не встретится строка без отступа (или конец текста).  Внутри блока кода амперсанды («&amp;amp;») и угловые скобки («&amp;lt;» и «&amp;gt;») автоматически преобразуются в элементы HTML разметки. Кроме того, следует отметить, что внутри блоков кода обычный синтаксис Markdown не обрабатывается.
-Блок кода в Markdown выглядит следующим образом:&lt;/p&gt;
-&lt;p&gt;Это обычный параграф:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Это блок кода
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h5 id=&#34;a-namelinesa-горизонтальные-линии-разделители&#34;&gt;&lt;a name=&#34;Lines&#34;&gt;	&lt;/a&gt; Горизонтальные линии (разделители)&lt;/h5&gt;
-&lt;p&gt;Для того чтобы создать горизонтальную линию с использованием синтаксиса языка Markdown, необходимо поместить три (или более)дефиса или звездочки на отдельной строке текста. Между ними возможно располагать пробелы.
-Горизонтальные линии в Markdown выглядят следующим образом:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Первая часть текста, который необходимо разделить
-***
-Вторая часть текста, который необходимо разделить
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Или&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Первая часть текста, который необходимо разделить
-
----
-
-Вторая часть текста, который необходимо разделить
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;В результате на экран выводится следующее:&lt;/p&gt;
-&lt;p&gt;Первая часть текста, который необходимо разделить&lt;/p&gt;
+&lt;p&gt;The quote inserted into the list looks like this:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;A list item with a quote:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is a quote
+inside the list item.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;The second item of the list&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;As a result, the following is displayed on the screen:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;A list item with a quote:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is a quote
+inside the list item.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;The second item of the list&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;When inserting quotes into the list items, it is important to keep in mind that the list items must be on the same level, and quotes must be indented. If the rule with a single list level is not followed, the next item in the list after the quote will be automatically numbered with the digit &amp;ldquo;1.&amp;rdquo;
+In addition, if necessary, you can insert the source code into the list. In this case, it should be written with double indentation – 8 spaces or 2 tab characters.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A list item containing the source code&lt;/li&gt;
+&lt;/ul&gt;
+&lt;source code &gt;
+&lt;h5 id=&#34;a-namecodeblocksa-code-blocks&#34;&gt;&lt;a name=&#34;CodeBlocks&#34;&gt;&lt;/a&gt; Code blocks&lt;/h5&gt;
+&lt;p&gt;Formatted code blocks are used when it is necessary to quote the source code of programs or markup.
+To create a block of code in the Markdown language, it is necessary to start each line of a paragraph with an indent consisting of four spaces or one tab character. The code block continues until there is a line without indentation (or the end of the text). Inside the code block, ampersands (&amp;quot;&amp;amp;&amp;quot;) and angle brackets (&amp;quot;&amp;lt;&amp;quot; and &amp;ldquo;&amp;gt;&amp;rdquo;) are automatically converted into HTML markup elements. In addition, it should be noted that inside the code blocks, the usual Markdown syntax is not processed.
+The code block in Markdown looks like this:&lt;/p&gt;
+&lt;p&gt;This is a regular paragraph:&lt;/p&gt;
+&lt;p&gt;This is a block of code&lt;/p&gt;
+&lt;h5 id=&#34;a-namelines-a-horizontal-lines-separators&#34;&gt;&lt;a name=&#34;Lines&#34;&gt; &lt;/a&gt; Horizontal lines (separators)&lt;/h5&gt;
+&lt;p&gt;In order to create a horizontal line using the Markdown syntax, you need to place three (or more)a hyphen or asterisk on a separate line of text. It is possible to place spaces between them.
+Horizontal lines in Markdown look like this:&lt;/p&gt;
+&lt;p&gt;The first part of the text to be divided&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;Вторая часть текста, который необходимо разделить&lt;/p&gt;
-&lt;p&gt;При использовании данного инструмента важно помнить, что после первой части текста и перед второй необходимо оставлять пустую строку. Данное правило необходимо соблюдать только при использовании дефисов. Если его не соблюдать, на экран будет выведен заголовок второго уровня и строка обычного текста.  При использовании символа звездочки данным правилом можно пренебречь.&lt;/p&gt;
-&lt;h2 id=&#34;строчные-элементы&#34;&gt;Строчные элементы&lt;/h2&gt;
-&lt;h5 id=&#34;a-namelinksa-ссылки&#34;&gt;&lt;a name=&#34;Links&#34;&gt;&lt;/a&gt; Ссылки&lt;/h5&gt;
-&lt;p&gt;Markdown поддерживает два стиля оформления ссылок:&lt;/p&gt;
+&lt;p&gt;The second part of the text that needs to be divided&lt;/p&gt;
+&lt;p&gt;Or&lt;/p&gt;
+&lt;p&gt;The first part of the text to be divided&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;The second part of the text that needs to be divided
+As a result, the following is displayed on the screen:&lt;/p&gt;
+&lt;p&gt;The first part of the text to be divided&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;The second part of the text that needs to be divided&lt;/p&gt;
+&lt;p&gt;When using this tool, it is important to remember that an empty line must be left after the first part of the text and before the second. This rule must be observed only when using hyphens. If it is not followed, the second-level header and a line of plain text will be displayed on the screen. When using the asterisk symbol, this rule can be ignored.&lt;/p&gt;
+&lt;h2 id=&#34;lowercase-elements&#34;&gt;Lowercase elements&lt;/h2&gt;
+&lt;h5 id=&#34;a-namelinksa-links&#34;&gt;&lt;a name=&#34;Links&#34;&gt;&lt;/a&gt; Links&lt;/h5&gt;
+&lt;p&gt;Markdown supports two styles of link design:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Гиперссылка, с немедленным указанием адреса (внутритекстовая);&lt;/li&gt;
-&lt;li&gt;Гиперссылка, подобная сноске.&lt;/li&gt;
+&lt;li&gt;Hyperlink, with immediate indication of the address (in-text);&lt;/li&gt;
+&lt;li&gt;A hyperlink similar to a footnote.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Подразумевается, что помимо URL-адреса существует еще текст ссылки. Он заключается в квадратные скобки.
-Для создания внутритекстовой гиперссылки необходимо использовать круглые скобки сразу после закрывающей квадратной. Внутри них необходимо поместить URL-адрес. В них же возможно расположить название, заключенное в кавычки, которое будет отображаться при наведении, но этот пункт не является обязательным.&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;  [пример](http://example.com/ &amp;quot;Необязательная подсказка&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;В результате на экран выводится следующее:
-&lt;a href=&#34;http://example.com/&#34; title=&#34;Необязательная подсказка&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;пример&lt;/a&gt;
-При ссылке на локальную директорию возможно использование относительного пути (от текущей страницы, сайта и т.п.)&lt;/p&gt;
-&lt;p&gt;При создании сносной гиперссылки вместо целевого адреса используется вторая пара квадратных скобок, внутри которых помещается метка, идентификатор ссылки (id).&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;[пример][id]:
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Также, можно использовать пробел, чтобы отделять 2 пары квадратных скобок:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;[пример] [id]: 
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;В этом случае возможно определить идентификатор в любом месте документа:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;[id]: http://example.com/ &amp;quot;Необязательная подсказка&amp;quot;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;В результате на экран выводится следующее:
-[пример] [id]
-[id]: &lt;a href=&#34;http://example.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://example.com/&lt;/a&gt; &amp;ldquo;Необязательная подсказка&amp;rdquo;
-Иными словами, она состоит из следующих элементов:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Идентификатор ссылки, окружённый квадратными скобками (которым может предшествовать необязательный отступ от одного до трёх пробелов);&lt;/li&gt;
-&lt;li&gt;Двоеточие;&lt;/li&gt;
-&lt;li&gt;Один или несколько пробелов (или символов табуляции);&lt;/li&gt;
-&lt;li&gt;URL гиперссылки;&lt;/li&gt;
-&lt;li&gt;Необязательный заголовок (подсказка к изображению, которая всплывает при наведении на него) гиперссылки, заключённый либо в двойные или одиночные кавычки, либо в скобки.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Идентификаторы ссылок могут состоять из букв, цифр, пробелов и знаков пунктуации, однако они не чувствительны к регистру. То есть эти два варианта эквивалентны:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;[текст ссылки][a]
-[текст ссылки][A]
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Markdown позволяет также использовать неявно выраженный идентификатор (сокращенный). В этом случае метка не приводится, вместо неё текст гиперссылки используется  и в качестве её имени, а вторая пара квадратных скобок остаётся пустою.
-Например, чтобы сделать слово «Example» гиперссылкой, ведущей на сайт &lt;a href=&#34;http://example.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://example.com/&lt;/a&gt;, достаточно написать:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;[Example][]
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;и затем определить гиперссылку:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;[Example]: http://example.com/
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;В результате на экран выводится следующее:
-[Example][]
-[Example]: &lt;a href=&#34;http://example.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://example.com/&lt;/a&gt;&lt;/p&gt;
-&lt;h5 id=&#34;a-nameemphasisa-выделение-текста&#34;&gt;&lt;a name=&#34;Emphasis&#34;&gt;&lt;/a&gt; 	Выделение текста&lt;/h5&gt;
-&lt;p&gt;Markdown воспринимает звёздочки «*» и символы подчёркивания «_» как признаки смыслового выделения текста:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Текст, окружённый одиночными «*» или «_», будет заключен в HTML-тэг &lt;code&gt;&amp;lt;em&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;Текст, окружённый двойными «*» или «_», будет заключен в HTML-тэг &lt;code&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Иными словами, текст, окруженный одинарными символами, выделяется курсивным шрифтом, а текст, окруженный двойными символами, выделяется полужирным шрифтом.
-Также, выделенный фрагмент может находиться в любой части слова.
-Текст, выделенный курсивом с использованием синтаксиса языка Markdown, выглядит следующим образом:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;*Пример*  
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;em&gt;Пример&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Текст, выделенный полужирным шрифтом с использованием синтаксиса языка Markdown, выглядит следующим образом:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;**Пример**
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;strong&gt;Пример&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Текст, выделенный курсивным полужирным шрифтом с использованием синтаксиса языка Markdown выглядит следующим образом:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;***Пример***
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Пример&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Все приведенные выше примеры аналогичны следующим:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;_Пример_
-
-__Пример__
-
-Пере___распред___деление
-
-___Пример___  
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h5 id=&#34;a-namecodeaкодовые-фрагменты-строк&#34;&gt;&lt;a name=&#34;Code&#34;&gt;&lt;/a&gt;	Кодовые фрагменты строк&lt;/h5&gt;
-&lt;p&gt;Чтобы отметить фрагмент строки, содержащий код, необходимо окружить его обратными апострофами «`».  При использовании кодовых фрагментов строк текст будет отображаться в виде моноширинного шрифта.
-В отличие от блоков кода, кодовый фрагмент позволяет поместить код внутрь обычного абзаца текста.
-Кодовый фрагмент строки в языке Markdown выглядит следующим образом:&lt;/p&gt;
-&lt;p&gt;Используйте оператор &lt;code&gt;if&lt;/code&gt;&lt;/p&gt;
-&lt;h5 id=&#34;a-nameimagesaизображения&#34;&gt;&lt;a name=&#34;Images&#34;&gt;&lt;/a&gt;	Изображения&lt;/h5&gt;
-&lt;p&gt;В Markdown существует 2 способа вставки изображений в документ:&lt;/p&gt;
-&lt;p&gt;a.	С помощью непосредственного указания URL-адреса изображения. Синтаксис данной команды выглядит следующим образом:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;![Альтернативный текст](/путь/к/изображению.jpg)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;или&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;![Альтернативный текст](/путь/к/изображению.jpg &amp;quot;Подсказка&amp;quot;)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Иными словами, он состоит из следующих элементов:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;восклицательный знак;&lt;/li&gt;
-&lt;li&gt;квадратные скобки, в которых указывается альтернативный изображению текст (он станет содержимым атрибута в элементе img);&lt;/li&gt;
-&lt;li&gt;круглые скобки, содержащие URL-адрес или относительный путь изображения, а также (необязательно) всплывающую подсказку, заключённуе в двойные или одиночные кавычки.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;b.	С помощью метки-идентификатора.  Синтаксис данной команды записывается следующим образом:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;![Альтернативный текст][id]
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;где «id» — имя определённой метки изображения. Метки изображений определяются при помощи синтаксиса, совершенно идентичного меткам гиперссылок:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;[id]: путь/к/изображению &amp;quot;Необязательная подсказка&amp;quot;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Важной особенностью является то, что Markdown не позволяет задать размеры изображения (ширину, высоту).&lt;/p&gt;
-&lt;h2 id=&#34;дополнительные-элементы&#34;&gt;Дополнительные элементы&lt;/h2&gt;
-&lt;h5 id=&#34;a-namebackslash-escapesaобратный-слеш&#34;&gt;&lt;a name=&#34;Backslash Escapes&#34;&gt;&lt;/a&gt;	Обратный слеш&lt;/h5&gt;
-&lt;p&gt;Может употребляться в Markdown перед специальными символами для того, чтобы они воспринимались в их буквальном (а не служебном) значении. Полный список данных символов приводится ниже:&lt;/p&gt;
-&lt;p&gt;«\»  - слеш;&lt;/p&gt;
-&lt;p&gt;«`»  - обратный апостроф;&lt;/p&gt;
-&lt;p&gt;«*»  - звездочка;&lt;/p&gt;
-&lt;p&gt;«_»  - символ подчеркивания;&lt;/p&gt;
-&lt;p&gt;«{}»  - фигурные скобки;&lt;/p&gt;
-&lt;p&gt;«[]»  - квадратные скобки;&lt;/p&gt;
-&lt;p&gt;«()»  - круглые скобки;&lt;/p&gt;
-&lt;p&gt;«#»  - символ решетки;&lt;/p&gt;
-&lt;p&gt;«+»  - плюс;&lt;/p&gt;
-&lt;p&gt;«-»  - минус (дефис);&lt;/p&gt;
-&lt;p&gt;«.»  – точка;&lt;/p&gt;
-&lt;p&gt;«!»  - восклицательный знак.&lt;/p&gt;
-&lt;h5 id=&#34;a-nameautomatic-linksa-автоматические-ссылки&#34;&gt;&lt;a name=&#34;Automatic Links&#34;&gt;&lt;/a&gt; Автоматические ссылки&lt;/h5&gt;
-&lt;p&gt;Markdown поддерживает упрощённый порядок автоматического создания ссылок для URL-адресов и адресов электронной почты. Для этого достаточно поместить URL-адрес или почтовый адрес в угловые скобки, и Markdown сделает его гиперссылкой. В отличие от вышеописанных стилей, в данном случае сам же URL-адрес или почтовый адрес становится и текстом гиперссылки. Автоматические ссылки на адреса электронной почты работают аналогично.
-Автоматические ссылки в языке Markdown выглядят следующим образом&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;http://example.com/&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;В результате на экран выводится следующее:
-&lt;a href=&#34;http://example.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://example.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Автоматическая ссылка на адрес электронной почты в Markdown выглядит следующим образом&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;lt;address@example.com&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;В результате на экран выводится следующее:
-&lt;a href=&#34;mailto:address@example.com&#34;&gt;address@example.com&lt;/a&gt;&lt;/p&gt;
-&lt;h5 id=&#34;a-namespecialsymbola-специальные-символы-html&#34;&gt;&lt;a name=&#34;SpecialSymbol&#34;&gt;&lt;/a&gt; Специальные символы HTML&lt;/h5&gt;
-&lt;p&gt;В языке HTML существует два символа, требующих специального рассмотрения: это символы («&amp;lt;») и («&amp;amp;»). Левая угловая скобка используется как начало тэга; амперсанды применяются для обозначения специального символа HTML.
-Для того чтобы использовать эти символы в их буквальном смысле, необходимо заменить их элементами HTML, а именно &lt;code&gt;&amp;amp;lt;&lt;/code&gt; и &lt;code&gt;&amp;amp;amp;&lt;/code&gt; соответственно.
-При использовании Markdown подобных действий совершать не нужно. Он позволяет использовать эти символы в исходном виде. В случае если амперсанд используется как часть спецсимвола HTML, он останется неизменным. В противном случае Markdown преобразует его в &lt;code&gt;&amp;amp;amp;&lt;/code&gt;.
-&lt;br&gt;
-&amp;mdash;&amp;mdash;&amp;ndash;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;It is assumed that in addition to the URL, there is also a link text. It is enclosed in square brackets.&lt;/p&gt;
 </description>
     </item>
     
